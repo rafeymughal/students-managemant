@@ -1,4 +1,4 @@
-import img1 from "../../images/bgi.jpg" 
+
 
 function Topimage() {
     return(
